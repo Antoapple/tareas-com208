@@ -3,3 +3,9 @@ header {
     text-align: center;
     font-family: 'Times New Roman';
 }
+body{ 
+    background-color: aquamarine;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
